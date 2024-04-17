@@ -1,1 +1,1 @@
-contoh aplikasi calculator menggunakan bahasa C#
+contoh aplikasi kalkulator sederhana menggunakan bahasa C#
